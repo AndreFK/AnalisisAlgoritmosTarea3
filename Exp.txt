@@ -1,0 +1,2 @@
+En el primer problema se implementa un algoritmo de DFS, y su tiempo es O(V + A), y el tiempo de ejecucio es 0.0098;
+En el segundo problema el tiempo es O(v^2 + A) ya que se recorred dos veces la cantidad de vertices, y el tiempo de ejecucion es de 0.0057;
